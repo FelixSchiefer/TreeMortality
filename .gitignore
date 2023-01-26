@@ -2,4 +2,4 @@
 .Rhistory
 .RData
 .Ruserdata
-.hdf5
+*.hdf5
